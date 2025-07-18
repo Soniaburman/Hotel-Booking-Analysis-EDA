@@ -2,10 +2,10 @@
 Performed comprehensive data analysis using Python and Pandas to uncover key business insights from raw data. Cleaned, transformed, and analyzed the dataset to highlight patterns in customer behavior, booking trends, and cancellations.
 
 ## Tools & Technologies
-**Pandas** – for data manipulation, filtering, grouping, and analysis\n
-**NumPy** – for numerical computations and array operations\n
-**Matplotlib** – for basic visualizations like bar charts and line plots\n
-**Seaborn** – for advanced and aesthetically pleasing statistical plots\n
+**Pandas** – for data manipulation, filtering, grouping, and analysis<br>
+**NumPy** – for numerical computations and array operations<br>
+**Matplotlib** – for basic visualizations like bar charts and line plots<br>
+**Seaborn** – for advanced and aesthetically pleasing statistical plots<br>
 
 ## Key Insights from the Analysis
 - City hotels received more bookings overall, but also experienced a higher cancellation rate compared to resort hotels.
